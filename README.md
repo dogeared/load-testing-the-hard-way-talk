@@ -4,7 +4,7 @@
 Here are the resources from a recent talk I did on load testing:
 
 * [Talk Slide Deck](LoadTestingtheHardWay.pdf)
-* [Talk Screencast]()
+* [Talk Screencast](https://youtu.be/f79Eitz5sUg)
 * [Load Testing the Hard Way Code](https://github.com/dogeared/load-testing-the-hard-way-example)
 * [JMeter](https://jmeter.apache.org/)
 * [Digital Ocean API](https://developers.digitalocean.com/documentation/v2)
